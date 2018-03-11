@@ -1,0 +1,16 @@
+/*Author: Thadeus Labuszewski
+
+CSS for both login and signup pages. Will be updated if people think that the login/signup pages are too boring.
+
+*/
+
+body{
+  padding-top:50px;
+}
+
+.panel-heading{
+  text-align: center;
+}
+.col-md-6{
+  margin: auto;
+}
